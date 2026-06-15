@@ -1,0 +1,15 @@
+# PFE Predictive Inventory
+
+Projet de stage basé sur XGBoost et Streamlit.
+
+## Comment exécuter le projet localement :
+
+1. Cloner le dépôt :
+   git clone https://github.com/goussaounmalika36-png/pfe-predictive-inventory-salid/new/main
+
+2. Installer les dépendances :
+   pip install -r requirements.txt
+
+3. Lancer l'application :
+   streamlit run interface.py
+   
