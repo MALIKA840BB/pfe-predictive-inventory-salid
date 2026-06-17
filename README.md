@@ -1,4 +1,4 @@
-[19:11, 15/06/2026] Malika🌝🌼: PFE Predictive Inventory
+ PFE Predictive Inventory
 
 Projet de stage basé sur XGBoost et Streamlit.
 
